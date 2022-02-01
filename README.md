@@ -1,1 +1,1 @@
-# doom.d
+ ### $HOME/.doom.d
